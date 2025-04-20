@@ -11,5 +11,7 @@
 
 <h1 align="start">💫 Other</h1>
 <div align="end">
-  <img width="40%" src="https://leetcard.jacoblin.cool/BraunKc">
+  <a href="https://leetcode.com/u/braunkc">
+    <img width="40%" src="https://leetcard.jacoblin.cool/BraunKc">
+  </a>
 </div>
