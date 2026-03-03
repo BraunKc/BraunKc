@@ -6,12 +6,12 @@
 
 <h1 align="start">💻 Tech Stack</h1>
 <div align="end">
-  <img width="40%" src="https://skillicons.dev/icons?i=go,docker,kubernetes,vscodium,postgres,kafka,redis,git,postman"
+  <img style="width: 40%; min-width: 320px" src="https://skillicons.dev/icons?i=go,docker,kubernetes,vscodium,postgres,kafka,redis,git,postman"
 </div><br>
 
 <h1 align="start">💫 Other</h1>
 <div align="end">
   <a href="https://leetcode.com/u/braunkc">
-    <img width="40%" src="https://leetcard.jacoblin.cool/BraunKc">
+    <img style="width: 40%; min-width: 320px" src="https://leetcard.jacoblin.cool/BraunKc">
   </a>
 </div>
